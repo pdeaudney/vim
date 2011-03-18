@@ -1,0 +1,11 @@
+set nocompatible
+set autoindent
+set smartindent
+set ruler
+set tabstop=4
+set shiftwidth=4
+set columns=80
+set background=dark
+set wrapmargin=8
+set bs=indent,eol,start
+syntax on
