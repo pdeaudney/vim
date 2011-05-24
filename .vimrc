@@ -9,3 +9,4 @@ set background=dark
 set wrapmargin=8
 set bs=indent,eol,start
 syntax on
+set expandtab
